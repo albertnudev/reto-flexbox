@@ -1,0 +1,18 @@
+:root {
+    /* Colors */ 
+    /*Background = bg*/
+   --header-bg: #867AE9;
+   --main-bg: #4C4C6D;
+   --aside-bg: #D83A56;
+   --card-bg: #FFC074;
+   --text-color: #FFFFFF;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html {
+    font-size: 62.5%;
+}
